@@ -1,0 +1,20 @@
+.circle-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  .circle-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .card-img-top {
+    width: 200px;
+    height: 200px;
+  }
+  
